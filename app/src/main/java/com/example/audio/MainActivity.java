@@ -24,11 +24,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     private String[] musicTitles = { // Названия музыкальных треков
-            "drift",
-            "danse",
-            "inst",
-            "komar",
-            "mama"
+            "crimewave",
+            "hit",
+            "derniere_danse",
+            "everything_black",
+            "decadence"
     };
 
 
